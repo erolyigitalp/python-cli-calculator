@@ -29,8 +29,7 @@ How to Run:
 Make sure Python 3 is installed
 Clone the repository or download the files
 Open a terminal in the project folder
-Run;
-python main.py
+Run; python main.py
 
 Available Commands:
 C → Clear current calculation
