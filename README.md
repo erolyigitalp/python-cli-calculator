@@ -22,28 +22,28 @@ python-cli-calculator/
 ├── operations.py
 └── README.md
 
-Technologies Used:
+## Technologies Used:
 Python 3
 
-How to Run:
+## How to Run:
 Make sure Python 3 is installed
 Clone the repository or download the files
 Open a terminal in the project folder
 Run; python main.py
 
-Available Commands:
+## Available Commands:
 C → Clear current calculation
 R → Reset calculator history
 P → Print previous operations
 Q → Quit the program
 
-Supported Operations:
+## Supported Operations:
 + or add
 - or sub
 * or mult
 / or div
 
-Example:
+## Example:
 === Python CLI Calculator ===
 
 Enter first number: 10
@@ -55,7 +55,7 @@ Select operation (+, -, *, /, add, sub, mult, div): *
 Enter second number: 2
 Result: 30
 
-Notes:
+## Notes:
 This is a simple terminal-based project intended to demonstrate:
 Python fundamentals
 functions
